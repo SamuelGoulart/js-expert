@@ -1,0 +1,8 @@
+1. The file should have id, name, profession and age fields
+   O arquivo deve conter os campos id, nome, profissão e idade
+
+2. The file should not be empty
+    O arquivo não deve estar vazio
+
+3. The file should not be longer than 4 lines including headers
+    O arquivo não deve ter mais de 4 linhas, incluindo cabeçalhos
