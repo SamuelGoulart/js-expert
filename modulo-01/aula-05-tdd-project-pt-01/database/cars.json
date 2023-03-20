@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5a0e8f26-1bb0-4c80-9055-373f919f4437",
+    "name": "Mustang",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9fc2d66c-1076-4ee9-86f2-214e48e1f541",
+    "name": "Silverado",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
